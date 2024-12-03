@@ -1,4 +1,4 @@
-# FinalProject
+# final_project collaborators
 
 - Minh Vu
 - Khang Do
